@@ -1,0 +1,51 @@
+10 - Aggregering og gruppering
+https://www.youtube.com/watch?v=nEBkFthrRVU&feature=emb_logo
+
+11 - Oppgaver avansert SQL
+Nettstedet www.hackerrank.com/domains/sql har gode oppgaver. Ut fra forrige leksjon, så er det 
+
+Oppgavene i kategorien (subdomain) Aggregation som er mest relevant. Men Basic og Advanced Join er også fint å øve på. 
+
+12 - Database design
+En viktig ferdighet er å kunne designe en database. Det er et eget lite fag i seg selv, men det er fint å kjenne litt til. 
+
+Les litt om normalisering av databaser ved å Google om dette. Du trenger å å kjenne de tre første såkalte normalformene. Her er en grei gjennomgang av disse:
+
+www.studytonight.com/dbms/database-normalization.php
+www.studytonight.com/dbms/first-normal-form.php
+www.studytonight.com/dbms/second-normal-form.php
+www.studytonight.com/dbms/third-normal-form.php
+Oppgaver
+
+I teksten under står ERD for entity-relationship-diagram - altså databasediagram. Et slikt diagram skal vise tabellene, feltene i hver tabell, hva som er primærnøkler og fremmednøkler. 
+
+Manufacturer
+A manufacturing company produces products. The following product information is stored: product name, product ID and quantity on hand. These products are made up of many components. Each component can be supplied by one or more suppliers. The following component information is kept: component ID, name, description, suppliers who supply them, and products in which they are used. Use Figure B.1 for this exercise.
+
+Create an ERD to show how you would track this information.
+
+Show entity names, primary keys, attributes for each entity, relationships between the entities and cardinality.
+
+Assumptions
+A supplier can exist without providing components.
+A component does not have to be associated with a supplier.
+A component does not have to be associated with a product. Not all components are used in products.
+A product cannot exist without components.
+
+
+Løsningsforslag her: https://ibb.co/SnJMyMy
+
+Car Dealership
+Create an ERD for a car dealership. The dealership sells both new and used cars, and it operates a service facility (see Figure B.2). Base your design on the following business rules:
+
+A salesperson may sell many cars, but each car is sold by only one salesperson.
+A customer may buy many cars, but each car is bought by only one customer.
+A salesperson writes a single invoice for each car he or she sells.
+A customer gets an invoice for each car he or she buys.
+A customer may come in just to have his or her car serviced; that is, a customer need not buy a car to be classified as a customer.
+When a customer takes one or more cars in for repair or service, one service ticket is written for each car.
+The car dealership maintains a service history for each of the cars serviced. The service  records are referenced by the car’s serial number.
+A car brought in for service can be worked on by many mechanics, and each mechanic may work on many cars.
+A car that is serviced may or may not need parts (e.g., adjusting a carburetor or cleaning a fuel injector nozzle does not require providing new parts).
+
+Løsningsforslag: https://ibb.co/qFp65Hz

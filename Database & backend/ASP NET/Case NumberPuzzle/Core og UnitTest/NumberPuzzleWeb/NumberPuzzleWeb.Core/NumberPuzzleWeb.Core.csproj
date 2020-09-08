@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Application Services\**" />
+    <Compile Remove="Domain Services\**" />
+    <EmbeddedResource Remove="Application Services\**" />
+    <EmbeddedResource Remove="Domain Services\**" />
+    <None Remove="Application Services\**" />
+    <None Remove="Domain Services\**" />
+  </ItemGroup>
+
+</Project>

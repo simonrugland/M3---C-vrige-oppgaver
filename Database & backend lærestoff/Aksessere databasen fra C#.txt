@@ -1,0 +1,10 @@
+7 - CRUD mot SQL Server fra C# på enkleste vis
+https://www.youtube.com/watch?v=ik0trgkB7EU&feature=emb_logo
+
+8 - Introduksjon til Repository Pattern
+https://www.youtube.com/watch?v=aAmN1HcNNZU&feature=emb_logo
+
+9 - Generelt Repository pattern med generics og reflection (kan hoppes over, litt avansert)
+https://www.youtube.com/watch?v=HdOc9PdhkG4&feature=emb_logo
+https://www.youtube.com/watch?v=o9yDJPnTGK0&feature=emb_logo
+https://www.youtube.com/watch?v=WG6k05IFyhE&feature=emb_logo

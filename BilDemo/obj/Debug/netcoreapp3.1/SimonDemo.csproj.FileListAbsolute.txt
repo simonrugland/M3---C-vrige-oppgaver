@@ -1,0 +1,13 @@
+C:\Users\Simon\source\repos\SimonDemo\SimonDemo\bin\Debug\netcoreapp3.1\SimonDemo.exe
+C:\Users\Simon\source\repos\SimonDemo\SimonDemo\bin\Debug\netcoreapp3.1\SimonDemo.deps.json
+C:\Users\Simon\source\repos\SimonDemo\SimonDemo\bin\Debug\netcoreapp3.1\SimonDemo.runtimeconfig.json
+C:\Users\Simon\source\repos\SimonDemo\SimonDemo\bin\Debug\netcoreapp3.1\SimonDemo.runtimeconfig.dev.json
+C:\Users\Simon\source\repos\SimonDemo\SimonDemo\bin\Debug\netcoreapp3.1\SimonDemo.dll
+C:\Users\Simon\source\repos\SimonDemo\SimonDemo\bin\Debug\netcoreapp3.1\SimonDemo.pdb
+C:\Users\Simon\source\repos\SimonDemo\SimonDemo\obj\Debug\netcoreapp3.1\SimonDemo.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\SimonDemo\SimonDemo\obj\Debug\netcoreapp3.1\SimonDemo.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\SimonDemo\SimonDemo\obj\Debug\netcoreapp3.1\SimonDemo.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\SimonDemo\SimonDemo\obj\Debug\netcoreapp3.1\SimonDemo.AssemblyInfo.cs
+C:\Users\Simon\source\repos\SimonDemo\SimonDemo\obj\Debug\netcoreapp3.1\SimonDemo.dll
+C:\Users\Simon\source\repos\SimonDemo\SimonDemo\obj\Debug\netcoreapp3.1\SimonDemo.pdb
+C:\Users\Simon\source\repos\SimonDemo\SimonDemo\obj\Debug\netcoreapp3.1\SimonDemo.genruntimeconfig.cache

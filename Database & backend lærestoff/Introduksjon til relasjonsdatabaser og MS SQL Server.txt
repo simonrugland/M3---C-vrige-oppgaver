@@ -1,0 +1,32 @@
+Intro til relasjonsdatabaser
+https://www.youtube.com/watch?v=Kj6lJ_lTmAo&feature=emb_logo
+
+1 - Verktøy
+https://www.youtube.com/watch?v=CG0rErAQYwE&feature=emb_logo
+
+2 - Opprette tabeller
+https://www.youtube.com/watch?v=uliXPwedqKQ&feature=emb_logo
+
+3 - Select Insert Update Delete
+https://www.youtube.com/watch?v=nDIx0DyllNQ&feature=emb_logo
+Oppgaver
+Test ut alle kommandoene SELECT, INSERT INTO, UPDATE og DELETE på din egen database. 
+
+4 - Relasjoner - en-til-mange
+https://www.youtube.com/watch?v=M8KX65PX3ZI&feature=emb_logo
+Oppgaver
+Finn et annet eksempel enn det i videoen på en en-til-mange relasjon. 
+Opprett tabellene og legg inn fornuftige data. 
+Lag en spørring som ut fra id-en til raden i den overordnede tabellen viser alle feltene i denne - samt alle radene og feltene i den relaterte tabellen. 
+Google selv om "cascade delete" og finn ut hva det betyr om dette er skrudd på eller ikke. 
+
+5 - Relasjoner - mange-til-mange
+https://www.youtube.com/watch?v=8xiiiUMktIg&feature=emb_logo
+Oppgaver
+Finn et annet eksempel på en mange-til-mange relasjon og opprett tabellene
+Opprett tabellene og legg inn fornuftige data. 
+Lag en spørring som ut fra id-en til en rad i den ene tabellen viser alle feltene i denne - samt alle radene og feltene i den relaterte tabellen. 
+Lag den motsatte spørringen 
+
+6 - Oppgaver i SQL
+https://sqlbolt.com/

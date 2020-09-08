@@ -1,0 +1,18 @@
+Funksjoner:
+
+*Dato
+
+*Sted
+
+*Takeoff og landing
+
+*flytid (automatisk fylle inn antall timer/minutter fra takeoff/landing)
+
+*Checkbox pass/fail til inspeksjon før og etter flyging med
+mulighet for å kommentere
+
+*Dronemodell
+
+*pilotnavn
+
+Kunne eksporteres som et tekstdokument og skrives ut.

@@ -1,0 +1,5 @@
+13 - Introduksjon
+EntityFramework Core er fint å lære seg sammen med ASP.NET, men de to videoene under er en grei introduksjon til hva EntityFramework er for noe. Videre læring om dette er i ASP.NET-kurset.
+https://www.pluralsight.com/courses/entity-framework-core-2-getting-started
+https://www.youtube.com/watch?v=2lsVleMHUBc&feature=emb_logo
+https://www.youtube.com/watch?v=pKOhsSc0Ltg&feature=emb_logo

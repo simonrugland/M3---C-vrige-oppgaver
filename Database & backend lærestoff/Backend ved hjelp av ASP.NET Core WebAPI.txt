@@ -1,0 +1,41 @@
+Veldig enkel backend ved hjelp av ASP.NET Core WebAPI
+https://www.youtube.com/watch?v=t32FT5_Jibk&feature=emb_logo
+
+Introduksjon til lagdeling
+https://www.youtube.com/watch?v=P5jcuyUQcDo&feature=emb_logo
+
+Introduksjon til Onion Architecture
+https://www.youtube.com/watch?v=NkVt1WcD74I&feature=emb_logo
+
+Case NumberPuzzle: Core og UnitTest
+https://github.com/GetAcademy/NumberPuzzleWeb
+https://www.youtube.com/watch?v=2MPhCDIoUVw&feature=emb_logo
+
+Case NumberPuzzle: Kjørbar applikasjon med in-memory-database
+https://github.com/GetAcademy/NumberPuzzleWeb
+https://www.youtube.com/watch?v=7WdMFaE7X9U&feature=emb_logo
+
+Case NumberPuzzle: Forskjellen på ValueObject og Enitity
+https://github.com/GetAcademy/NumberPuzzleWeb
+https://www.youtube.com/watch?v=dJ2eUTOTyZM&feature=emb_logo
+
+Case NumberPuzzle: Dataaksesslaget
+https://github.com/GetAcademy/NumberPuzzleWeb
+https://www.youtube.com/watch?v=oatmYUYgLn0&feature=emb_logo
+
+Oppgave Nyhetsbrev
+Lag en applikasjon hvor brukerne får melde se på og av nyhetsbrev. Applikasjonen skal inneholde dette:
+
+Webside hvor man fyller ut navn og e-postadresse for å melde seg på. 
+Systemet genererer en bekreftelseskode (Guid.NewGuid i C#) og sender brukeren en epost med lenke tilbake til en side, hvor epost og bekreftelseskode er bakt inn i url-en som url-parametre. Koden må også lagres i en database sammen med epostadressen.
+Denne siden sjekker om koden er riktig i forhold til det som er lagret i databasen. I så fall, settes abonnementet til bekreftet og aktivt. 
+I Core skal det være en SubscriptionService med to metoder. Den ene er for å lage abonnement, og den er andre er for å bekrefte. Lag minst en unit test for hver av de to metodene. 
+
+Det viktige her er å øve på lagdeling og onion-arkitektur, så du trenger ikke lage en ordentlig database og e-postservice. Eposttjenesten kan for eksempel skrive til en fil istedenfor å faktisk sende e-post. Men om du vil sende epost på ordentlig, kan du bruke SendGrid. Det er gratis for inntil 100 eposter per dag: https://sendgrid.com/marketing/sendgrid-services-cro/#pricing-app  Bruk dette biblioteket:  https://github.com/sendgrid/sendgrid-csharp
+
+https://github.com/GetAcademy/NewsletterX
+https://www.youtube.com/watch?v=7VLlBQp9kAE&feature=emb_logo
+https://www.youtube.com/watch?v=Ef-ORQnTUpM&feature=emb_logo
+
+Bonus:
+https://www.youtube.com/watch?v=Ip7zjwwlves&feature=emb_logo
