@@ -12,3 +12,10 @@ C:\Users\terje\Google Drive\GET IT SRC\C# - intro\RandomBoxesRevisited\RandomBox
 C:\Users\terje\Google Drive\GET IT SRC\C# - intro\RandomBoxesRevisited\RandomBoxes\bin\Debug\RandomBoxes.exe.config
 C:\Users\terje\Google Drive\GET IT SRC\C# - intro\RandomBoxesRevisited\RandomBoxes\bin\Debug\RandomBoxes.exe
 C:\Users\terje\Google Drive\GET IT SRC\C# - intro\RandomBoxesRevisited\RandomBoxes\bin\Debug\RandomBoxes.pdb
+C:\Users\Simon\Desktop\M3 - C# & Øvrige oppgaver\RandomBoxes\RandomBoxes\bin\Debug\RandomBoxes.exe.config
+C:\Users\Simon\Desktop\M3 - C# & Øvrige oppgaver\RandomBoxes\RandomBoxes\bin\Debug\RandomBoxes.exe
+C:\Users\Simon\Desktop\M3 - C# & Øvrige oppgaver\RandomBoxes\RandomBoxes\bin\Debug\RandomBoxes.pdb
+C:\Users\Simon\Desktop\M3 - C# & Øvrige oppgaver\RandomBoxes\RandomBoxes\obj\Debug\RandomBoxes.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\M3 - C# & Øvrige oppgaver\RandomBoxes\RandomBoxes\obj\Debug\RandomBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\M3 - C# & Øvrige oppgaver\RandomBoxes\RandomBoxes\obj\Debug\RandomBoxes.exe
+C:\Users\Simon\Desktop\M3 - C# & Øvrige oppgaver\RandomBoxes\RandomBoxes\obj\Debug\RandomBoxes.pdb
